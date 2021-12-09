@@ -1,0 +1,6 @@
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\bin\Debug\Лаба2_залік.exe.config
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\bin\Debug\Лаба2_залік.exe
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\bin\Debug\Лаба2_залік.pdb
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\obj\Debug\Лаба2_залік.csproj.CoreCompileInputs.cache
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\obj\Debug\Лаба2_залік.exe
+C:\Users\Віка\Desktop\Лаби на залік\Лаба2_залік\Лаба2_залік\obj\Debug\Лаба2_залік.pdb
