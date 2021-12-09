@@ -1,0 +1,2 @@
+C:\Users\Віка\Desktop\Лаби на залік\Лаба4_залік\Лаба4_залік\obj\Debug\Лаба4_залік.csproj.AssemblyReference.cache
+C:\Users\Віка\Desktop\Лаби на залік\Лаба4_залік\Лаба4_залік\obj\Debug\Лаба4_залік.csproj.CoreCompileInputs.cache
