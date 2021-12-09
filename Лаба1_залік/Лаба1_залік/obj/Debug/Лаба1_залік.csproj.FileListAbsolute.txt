@@ -1,0 +1,7 @@
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\bin\Debug\Лаба1_залік.exe.config
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\bin\Debug\Лаба1_залік.exe
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\bin\Debug\Лаба1_залік.pdb
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\obj\Debug\Лаба1_залік.csproj.AssemblyReference.cache
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\obj\Debug\Лаба1_залік.csproj.CoreCompileInputs.cache
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\obj\Debug\Лаба1_залік.exe
+C:\Users\Віка\Desktop\Лаби на залік\Лаба 1 (на залік)\Лаба1_залік\obj\Debug\Лаба1_залік.pdb
